@@ -9,6 +9,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 # Data Cleaning
 
 # Exploratory data analysis
+
 <img src = "https://github.com/Jyothif/Titanic_Disaster_Deployment/blob/main/images/1.PNG">
 <img src = "https://github.com/Jyothif/Titanic_Disaster_Deployment/blob/main/images/2.PNG">
 <img src = "https://github.com/Jyothif/Titanic_Disaster_Deployment/blob/main/images/3.PNG">
