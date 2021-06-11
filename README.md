@@ -1,2 +1,13 @@
-# Titanic_Disaster_Deployment
-This repo is Data science life cycle data collection to Model deployment
+# Project overview
+
+# code and Resources
+
+# Data Cleaning
+
+# Exploratory data analysis
+<img src = "">
+<img src = "">
+<img src = "">
+# Model Building
+# Model Performance
+# Deployment
