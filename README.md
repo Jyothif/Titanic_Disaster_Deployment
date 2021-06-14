@@ -29,27 +29,8 @@ In this challenge, we ask you to build a predictive model that answers the quest
 - home     --> .dest Home/Destination
 
 **Missing Values**
-- These are train data set missing values
-
-<class 'pandas.core.frame.DataFrame'>
-Int64Index: 1309 entries, 0 to 417
-Data columns (total 12 columns):
- #   Column       Non-Null Count  Dtype  
----  ------       --------------  -----  
- 0   PassengerId  1309 non-null   int64  
- 1   Survived     891 non-null    float64
- 2   Pclass       1309 non-null   int64  
- 3   Name         1309 non-null   object 
- 4   Sex          1309 non-null   object 
- 5   Age          1046 non-null   float64
- 6   SibSp        1309 non-null   int64  
- 7   Parch        1309 non-null   int64  
- 8   Ticket       1309 non-null   object 
- 9   Fare         1308 non-null   float64
- 10  Cabin        295 non-null    object 
- 11  Embarked     1307 non-null   object 
-dtypes: float64(3), int64(4), object(5)
-memory usage: 132.9+ KB
+- These are missing values in train data set
+<img src ="https://github.com/Jyothif/Titanic_Disaster_Deployment/blob/main/images/data%20set.PNG">
 
 # Exploratory data analysis
 
@@ -59,7 +40,14 @@ memory usage: 132.9+ KB
 <img src = "https://github.com/Jyothif/Titanic_Disaster_Deployment/blob/main/images/4.PNG">
 
 # Model Building
-
+- LogisticRegression
+- GaussianNB
+- KNN
+- RandomForest
+- SVC
+- XBG
 # Model Performance
+The best model is SVC
 
 # Deployment
+ - Flask Frame Work
