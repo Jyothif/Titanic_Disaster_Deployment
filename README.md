@@ -45,9 +45,9 @@ In this challenge, we ask you to build a predictive model that answers the quest
 - KNN
 - RandomForest
 - SVC
-- XBG
+- XGB
 # Model Performance
 The best model is SVC
 
 # Deployment
- - Flask Frame Work
+ - Flask Frame Work(under process)
